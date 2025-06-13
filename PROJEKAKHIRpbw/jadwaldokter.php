@@ -34,29 +34,49 @@
           <thead>
             <tr class="bg-blue-900 text-white">
               <th class="p-3 border">Nama Dokter</th>
-              <th class="p-3 border">Hari</th>
               <th class="p-3 border">Jam</th>
               <th class="p-3 border">Spesialis</th>
             </tr>
           </thead>
           <tbody>
             <tr>
-              <td class="p-3 border">drg. Andi</td>
-              <td class="p-3 border">Senin & Rabu</td>
-              <td class="p-3 border">08.00 - 12.00</td>
-              <td class="p-3 border">Umum</td>
+              <td class="p-3 border">drg.Seva Fika</td>
+              <td class="p-3 border">08.00 - 14.00</td>
+              <td class="p-3 border">Venner</td>
             </tr>
-            <tr class="bg-blue-50">
-              <td class="p-3 border">drg. Siti</td>
-              <td class="p-3 border">Selasa & Kamis</td>
-              <td class="p-3 border">13.00 - 17.00</td>
-              <td class="p-3 border">Ortodonti</td>
+              <td class="p-3 border">drg. Siti Nur Halizah</td>
+              <td class="p-3 border">09.00 - 15.00</td>
+              <td class="p-3 border">Pemutih Gigi</td>
             </tr>
             <tr>
-              <td class="p-3 border">drg. Raka</td>
-              <td class="p-3 border">Jumat</td>
-              <td class="p-3 border">09.00 - 12.00</td>
-              <td class="p-3 border">Bedah Mulut</td>
+              <td class="p-3 border">drg.Laili okta</td>
+              <td class="p-3 border">10.00 - 16.00</td>
+              <td class="p-3 border">Saluran akar</td>
+            </tr>
+            <tr>
+              <td class="p-3 border">dr. Lina marlina</td>
+              <td class="p-3 border">08.30 - 13.30</td>
+              <td class="p-3 border">Cabut Gigi</td>
+            </tr>
+            <tr>
+              <td class="p-3 border">drg.Erlin Amelia</td>
+              <td class="p-3 border">12.00 - 18.00</td>
+              <td class="p-3 border">Tambal Gigi</td>
+            </tr>
+            <tr>
+              <td class="p-3 border">drg.Miza layla</td>
+              <td class="p-3 border">09.30 - 14.30</td>
+              <td class="p-3 border">Scalling</td>
+            </tr>
+            <tr>
+              <td class="p-3 border">drg.Gina naila</td>
+              <td class="p-3 border">11.00 - 17.00</td>
+              <td class="p-3 border">Tambal Gigi</td>
+            </tr>
+            <tr>
+              <td class="p-3 border">drg.melati kusuma</td>
+              <td class="p-3 border">08.00 - 13.00</td>
+              <td class="p-3 border">ortodontik</td>
             </tr>
           </tbody>
         </table>

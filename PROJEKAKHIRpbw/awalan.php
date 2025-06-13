@@ -241,6 +241,13 @@
   setInterval(autoScroll, 30);
 </script>
 
+<div class="text-center my-8">
+  <a href="jadwaldokter.php" class="inline-block bg-blue-800 text-white font-semibold px-6 py-3 rounded-full shadow-md hover:bg-blue-700 transition">
+    Lihat Jadwal Dokter
+  </a>
+</div>
+
+
 <!-- TESTIMONI -->
 <section class="py-4 sm:py-6">
   <div class="container mx-auto px-4">
